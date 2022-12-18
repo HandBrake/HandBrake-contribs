@@ -8,4 +8,4 @@ The HandBrake team does not support these libraries.  Any security concerns with
 
 Please do not use this repository as a mirror for other projects as it may not contain the latest releases of upstream projects!
 
-If you believe the *current* version of HandBrake is using a venerable library, please follow the disclosure policy on https://github.com/HandBrake/HandBrake/security/policy
+If you believe the *current* version of HandBrake is using a vulnerable library, please follow the disclosure policy on https://github.com/HandBrake/HandBrake/security/policy
